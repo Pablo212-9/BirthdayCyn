@@ -6,7 +6,7 @@ const CONFIG = {
   nama: "Cyntia Risky Antoni", dari: "Anugrah Prasetyo", lahir: "2009-10-22",
   usiaTeks: "Terima kasih sudah menjadi dirimu, dan membiarkan aku ada di sampingmu.",
   timeline: [
-    {icon:"camera", tgl:"2026-05-06", judul:"Pertama Kali Bareng", teks:"Aku gemeter banget waktu itu hehe."},
+    {icon:"camera", tgl:"2026-05-06", judul:"Pertama Kali Bareng", teks:"Aku gemeter banget waktu itu hehe.", foto:"Cyn1.jpg"},
     {icon:"coffee", tgl:"2026-05-08", judul:"Kencan Pertama", teks:" Di TSM, Dengan suasana senang dan nyaman bersamamu"},
     {icon:"heart", tgl:"2026-05-08", judul:"Hari Kita Resmi", teks:"Hari ketika semuanya menjadi lebih indah."},
    
